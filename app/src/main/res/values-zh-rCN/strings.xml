@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github小部件</string>
+
+    <string name="user_name_title">用户名</string>
+    <string name="user_name_content">请输入您的GitHub的用户名。</string>
+
+    <string name="motto_title">座右铭</string>
+    <string name="motto_content">请输入您的座右铭。</string>
+
+    <string name="reset_base_color">重置颜色</string>
+
+    <string name="login">登录</string>
+    <string name="login_to">登录以获取您的私人存储库的统计信息和更多api请求次数。</string>
+    <string name="login_to_github">登录</string>
+    <string name="login_url">https://github.com/login</string>
+    <string name="logout">登出</string>
+
+    <string name="show_toast_title">显示吐司</string>
+    <string name="show_toast_content">在操作或发生错误时是否显示吐司?</string>
+
+    <string name="show_month_dash_in_3d_title">显示月短划线</string>
+    <string name="show_month_dash_in_3d_content">是否在3D图表中显示月短划线和文字?</string>
+
+    <string name="show_weekday_dash_in_3d_title">显示工作日短划线</string>
+    <string name="show_weekday_dash_in_3d_content">是否在3D图表中显示工作日短划线和文字?</string>
+
+    <string name="start_from_sunday">从星期天开始</string>
+    <string name="start_from_monday">从星期一开始</string>
+
+    <string name="update_every">每天更新&#160;</string>
+    <string name="dot">.</string>
+    <string name="dont_update">手动更新时点击头像.</string>
+    <string name="event_per_page">&#160;每页事件.</string>
+    <string name="events_per_page">&#160;多页事件.</string>
+    <string name="received_event_per_page">这个值决定了从互联网获得的事件数量。 更大的是，星星的计数更准确，但需要更多的网络流量。</string>
+
+    <string name="refreshing">刷新中&#8230;</string>
+    <string name="refreshing_motto">刷新座右铭中&#8230;</string>
+    <string name="refresh_failed">刷新失败！</string>
+    <string name="refresh_too_frequently">刷新太频繁！ 登录或者再等待一会儿</string>
+
+    <string name="one_year_total">总共1年</string>
+    <string name="busiest_day">最忙的一天</string>
+    <string name="longest_streak">最长的条纹</string>
+    <string name="no_contributions_this_year">今年没有贡献</string>
+    <string name="last_contributed">最后一次贡献&#160;</string>
+    <string name="days_ago">&#160;天以前</string>
+    <string name="day_ago">&#160;天以前</string>
+    <string name="current_streak">当前的条纹</string>
+    <string name="days">天</string>
+    <string name="day">天</string>
+    <string name="contributions">贡献</string>
+    <string name="contribution">贡献</string>
+    <string name="remark_to">&#160;-&#160;</string>
+
+    <string name="click_to_set">点击设置用户名</string>
+
+    <string name="one_year">一年</string>
+    <string name="today">今天</string>
+    <string name="current">天</string>
+    <string name="followers">关注者</string>
+    <string name="stars">星</string>
+
+    <string name="corner_star">&#160;星</string>
+    <string name="corner_stars">&#160;星</string>
+    <string name="loading">加载中&#8230;</string>
+    <string name="dots">&#8230;</string>
+    <string name="url_prefix">https://github.com/</string>
+
+    <string name="contents_in_list">列表中的内容</string>
+    <string name="trending_daily">今天变热</string>
+    <string name="trending_weekly">这周变热</string>
+    <string name="trending_monthly">当月变热</string>
+    <string name="received_event">接收的事件</string>
+    <string name="set_language">语言:&#160;</string>
+
+    <string name="language">语言</string>
+    <string name="cancel">取消</string>
+
+    <string name="about">关于</string>
+    <string name="about_content">
+        Github 小部件是一个轻量级的应用可以展示：\n
+        &#160;• 贡献图表(2D/3D)\n
+        &#160;• 当前年份的贡献总数\n
+        &#160;• 头像\n
+        &#160;• 座右铭\n
+        &#160;• 关注者\n
+        &#160;• 当天的贡献\n
+        &#160;• 当前的条纹\n
+        &#160;• 增加的星数\n
+        &#160;• 一天最多的贡献\n
+        &#160;• 最长的条纹\n
+        &#160;• 趋势(每天/每周/每月)\n
+        &#160;• 接收的事件\n
+        有关更多信息或检查最新版本, 请点击 \"查看源代码\" 按钮去查看仓库页面中的read-me文件。告诉我任何问题，bug，增强Github-Widget的问题。
+    </string>
+    <string name="view_source">查看源代码</string>
+    <string name="follow_me">关注Nightonke</string>
+
+</resources>
