@@ -36,7 +36,7 @@
 #### [License](https://github.com/Nightonke/GithubWidget/blob/master/README-ZH.md#license-1)
 
 ### What is Github Widget?
-Github Widget是一个轻量级、现版本拥有11中风格的显示以下Github信息的App。
+Github Widget是一个轻量级、现版本拥有11种风格的显示以下Github信息的App。
 
 1. 贡献图表(2D/3D)
 2. 当年总贡献
