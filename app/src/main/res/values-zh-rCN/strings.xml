@@ -3,15 +3,15 @@
     <string name="app_name">Github小部件</string>
 
     <string name="user_name_title">用户名</string>
-    <string name="user_name_content">请输入您的GitHub的用户名。</string>
+    <string name="user_name_content">请输入您的GitHub的用户名</string>
 
     <string name="motto_title">座右铭</string>
-    <string name="motto_content">请输入您的座右铭。</string>
+    <string name="motto_content">请输入您的座右铭</string>
 
     <string name="reset_base_color">重置颜色</string>
 
     <string name="login">登录</string>
-    <string name="login_to">登录以获取您的私人存储库的统计信息和更多api请求次数。</string>
+    <string name="login_to">登录以获取您的私人存储库的统计信息和更多api请求次数</string>
     <string name="login_to_github">登录</string>
     <string name="login_url">https://github.com/login</string>
     <string name="logout">登出</string>
@@ -31,8 +31,8 @@
     <string name="update_every">每天更新&#160;</string>
     <string name="dot">.</string>
     <string name="dont_update">手动更新时点击头像.</string>
-    <string name="event_per_page">&#160;每页事件.</string>
-    <string name="events_per_page">&#160;多页事件.</string>
+    <string name="event_per_page">&#160;页事件.</string>
+    <string name="events_per_page">&#160;页事件.</string>
     <string name="received_event_per_page">这个值决定了从互联网获得的事件数量。 更大的是，星星的计数更准确，但需要更多的网络流量。</string>
 
     <string name="refreshing">刷新中&#8230;</string>
@@ -82,7 +82,7 @@
     <string name="about_content">
         Github 小部件是一个轻量级的应用可以展示：\n
         &#160;• 贡献图表(2D/3D)\n
-        &#160;• 当前年份的贡献总数\n
+        &#160;• 当年的贡献总数\n
         &#160;• 头像\n
         &#160;• 座右铭\n
         &#160;• 关注者\n
@@ -93,7 +93,7 @@
         &#160;• 最长的条纹\n
         &#160;• 趋势(每天/每周/每月)\n
         &#160;• 接收的事件\n
-        有关更多信息或检查最新版本, 请点击 \"查看源代码\" 按钮去查看仓库页面中的read-me文件。告诉我任何问题，bug，增强Github-Widget的问题。
+        有关更多信息或检查最新版本, 请点击 \"查看源代码\" 按钮去查看仓库页面中的read-me文件。告诉我任何问题，bug，增强Github小部件的问题。
     </string>
     <string name="view_source">查看源代码</string>
     <string name="follow_me">关注Nightonke</string>
